@@ -1,3 +1,0 @@
-pluginManagement { repositories { google(); mavenCentral(); gradlePluginPortal() } }
-rootProject.name='cek_barang_warung_pro'
-include ':app'
